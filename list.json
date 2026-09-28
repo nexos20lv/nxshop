@@ -1,7 +1,13 @@
 {
   "directories": [
     "https://nx-retro.ghostland.at",
-    "https://gandalfsax.com"
+    "https://opennx.github.io",
+    "https://shop.magicmonkei.com",
+    "https://pixelgoblin.link",
+    "https://cyrilz87.net",
+    "https://myrincon.es",
+    "https://nx.ghostland.at",
+    "https://nx-saves.ghostland.at"
   ],
   "success": "Custom Filtered Shop Index Loaded!\nOnly active & verified hosts enabled."
 }
